@@ -1,4 +1,4 @@
-#Pregunta 2-Curva Cúbica Bézier
+#Pregunta 4b-Curva Cúbica Bézier
 #***********************************
 import matplotlib.pyplot as plt
 import numpy as np
