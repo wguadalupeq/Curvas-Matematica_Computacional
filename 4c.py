@@ -1,4 +1,4 @@
-#Pregunta 3-Curva Cúbica Uniforme B-Spline
+#Pregunta 4c-Curva Cúbica Uniforme B-Spline
 #**********************************************
 import matplotlib.pyplot as plt
 import numpy as np
