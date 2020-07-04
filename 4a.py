@@ -1,4 +1,4 @@
-#Pregunta 1-Interpolacion de Lagrange
+#Pregunta 4a-Interpolacion de Lagrange
 #********************************************
 import matplotlib.pyplot as plt
 import numpy as np
